@@ -1,5 +1,7 @@
 # data-analysis-project
 
+The main file is "P4DS_A2_Data_Analysis_Project.ipynb" where the "P4DS_A2_Data_Analysis_Project.pdf" file is the pdf version of it where every coding field is compiled.
+
 The Data
 
 The data being used is gathered from Kaggle and includes information about Formula One which is a motorsport where drivers compete against each other in open-wheel single-seater formula racing cars. Every year (season) consists of a given number of races where the first few drivers (the numbers may differ from year to year) win points toward the World Drivers' Championship (the higher a driver is placed, the more points they get). At the end of every season, the driver with the most points is named the World Champion.
