@@ -4,7 +4,7 @@ The main file is "P4DS_A2_Data_Analysis_Project.ipynb" where the "P4DS_A2_Data_A
 
 The Data
 
-The data being used is gathered from Kaggle (https://www.kaggle.com/datasets/debashish311601/formula-1-official-data-19502022) and includes information about Formula One which is a motorsport where drivers compete against each other in open-wheel single-seater formula racing cars. Every year (season) consists of a given number of races where the first few drivers (the numbers may differ from year to year) win points toward the World Drivers' Championship (the higher a driver is placed, the more points they get). At the end of every season, the driver with the most points is named the World Champion.
+The data being used is gathered from Kaggle ([abc](https://www.kaggle.com/datasets/debashish311601/formula-1-official-data-19502022)) and includes information about Formula One which is a motorsport where drivers compete against each other in open-wheel single-seater formula racing cars. Every year (season) consists of a given number of races where the first few drivers (the numbers may differ from year to year) win points toward the World Drivers' Championship (the higher a driver is placed, the more points they get). At the end of every season, the driver with the most points is named the World Champion.
 
 The dataset being explored in this project consists of 14 files with detailed information about every season from 1950 to 2022. However, only three of these files are of interest in order to achieve the objectives of the project.
 
